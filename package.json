@@ -1,0 +1,25 @@
+{
+  "name": "mock-data-api",
+  "version": "0.1.0",
+  "description": "Instant mock data API powered by Express and Faker.js. Deployable to Railway in one click.",
+  "type": "commonjs",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "helmet": "^7.1.0",
+    "express-rate-limit": "^8.0.1",
+    "papaparse": "^5.5.3"
+  }
+}
+
+

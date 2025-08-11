@@ -1,0 +1,37 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Coverage/Build
+coverage/
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Local overrides
+*.local.*
+*.local
+
+# Ignore lockfiles at root but keep app-level lock if needed
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
