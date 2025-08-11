@@ -2,7 +2,7 @@
 
 Spin up an instantly deployable mock data API. Choose exactly which fields to generate or use presets. JSON by default, CSV via `?format=csv`. One‑click deploy on Railway.
 
-[![Deploy on Railway](https://railway.app/button.svg)]([https://railway.app/template/new?name=Mock%20Data%20API&description=Instant%20mock%20data%20API%20powered%20by%20Express%20%2B%20Faker%2E&repo=&plugins=&envs=PORT&PORTDefault=3000](https://railway.com/deploy/instant-mock-data-api))
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/instant-mock-data-api)
 
 ## Features
 - Fine‑grained field generation: pick exactly the fields you want via `keys` or custom JSON `map`
